@@ -27,4 +27,5 @@ Our Deep LSTM model has demonstrated impressive predictive power:
 
 RMSE: 2675.17 MW (Root Mean Square Error)
 MAPE: 7.29 (Mean Absolute Percentage Error)
+
 These results underscore the model's high precision in forecasting electricity demand.
